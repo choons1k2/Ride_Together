@@ -1,5 +1,5 @@
 # 함께 타요 : 모빌리티 공유 플랫폼
-# <img src="logo.png"  width="300" height="60"> <img src="car.png"  width="300" height="150">
+# <img src="logo.png"  width="300" height="60"><br> <img src="car.png"  width="300" height="150">
 
 최근 지속적인 경제성장률 둔화로 인한 교통비 부담 심화, 개인 차량의 이용 증가로 인한 도로 혼잡 및 주차 공간 부족 문제 그리고 대기 오염 및 온실 가스 등 환경 문제가 심화.
 이에 따라 운송 수단의 효율성과 지속 가능성에 대한 문제가 대두.
